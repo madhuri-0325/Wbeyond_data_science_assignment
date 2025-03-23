@@ -1,5 +1,4 @@
-# Wbeyond_data_science_assignment
-Sales Forecasting
+
 # Sales Forecasting Project
 
 ## Overview
